@@ -1,0 +1,3 @@
+Implemented the GBDT in blog: A Kaggle Master Explains Gradient Boosting (http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+Used the same data in this blog
+Run 'python run.py' in command line
