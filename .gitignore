@@ -1,0 +1,11 @@
+# compiled
+*.pyc
+
+# IDE
+.idea/
+
+# virtual env
+venv/
+
+# OS X
+.DS_Store
